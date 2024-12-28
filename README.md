@@ -3,7 +3,7 @@
 Browser support
 Internet Explorer|Edge |Firefox |Chrome	|Safari	|Samsung browser |Brave
 -----------------|------|-------|-------|-------|---------------|------
-❌         ✔️   |✔️	  |✔️	  |✔️	  |✔️    |✔️             |✔️
+❌              |✔️	  |✔️	  |✔️	  |✔️    |✔️             |✔️
 
 Demo: https://codepen.io/buribalazs/pen/NWvReZN
 
