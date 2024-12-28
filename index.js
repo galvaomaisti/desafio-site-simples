@@ -1,1 +1,1 @@
-console.log (Bem-vindo ao meu site!);
+console.log ('Bem-vindo-ao-meu-site!');
